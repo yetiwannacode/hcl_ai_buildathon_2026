@@ -28,7 +28,7 @@ Autonomous AI system that detects scam messages and actively engages scammers to
     └── extractor.py                # Data extraction (regex + AI)
 ```
 
-**This project was vibecoded using GitHub Copilot and manually reviewed. The author of this project and the collaborators do not take any responsibility of any data loss or leaks, if it occurs through the use of this application.**
+**This project was built with AI assisted development tools and manually reviewed, tested and structured by the team. This project is intended as a hackathon prototype and should be reviewed, secured, and tested further before any production use.**
 
 ## API Usage
 
